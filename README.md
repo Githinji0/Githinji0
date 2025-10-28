@@ -1,6 +1,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/william-githinji-63216a2a3/)]
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="william-githinji-63216a2a3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/william-githinji-63216a2a3?trk=profile-badge">william githinji</a></div>
+              
 
 
 # 💻 Tech Stack:
